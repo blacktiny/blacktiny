@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi I'm blacktiny - Software Engineer</h3>
+<h3 align="center">Hi I'm NightFury - Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacktiny&label=Profile%20views&color=0e75b6&style=flat" alt="blacktiny" /> </p>
 
