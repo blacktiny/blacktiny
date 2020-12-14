@@ -47,8 +47,8 @@
 
 <p>p.s: this stats are only for public repos (private & client repos not included)</p>
 
-([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=blacktiny&langs_count=8&layout=compact&theme=radical&count_private=true&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacktiny&langs_count=8&layout=compact&theme=radical&count_private=true&#41;]&#40;https://github.com/sebmaz93/github-readme-stats&#41;)
 
-[![sebmaz93's github stats](https://github-readme-stats.vercel.app/api?username=blacktiny&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/sebmaz93/github-readme-stats)
+[![blacktiny's github stats](https://github-readme-stats.vercel.app/api?username=blacktiny&count_private=tru&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/blacktiny/github-readme-stats)
 
-[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=blacktiny&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/sebmaz93/github-profile-trophy&#41;)
+[comment]: <> ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=blacktiny&theme=monokai&row=2&column=3&margin-w=15&margin-h=15&#41;]&#40;https://github.com/blacktiny/github-profile-trophy&#41;)
