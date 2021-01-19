@@ -9,15 +9,30 @@
 <p>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="react" width="40" height="40"/>
-  </a> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" title="vue" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" title="angular" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" title="typescript" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="javascript" width="40" height="40"/>
   </a>
+  <a href="https://nuxtjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" title="nuxtjs" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" title="php" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" title="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="docker" width="40" height="40"/>
@@ -78,6 +93,15 @@
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" title="webpack" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" title="dotnet" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" title="dotnet" width="40" height="40"/>
+  </a>
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qtio" title="qtio" width="40" height="40"/>
   </a>
 </p>
 
