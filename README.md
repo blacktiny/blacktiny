@@ -36,7 +36,7 @@
   </a>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="docker" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="graphql" width="40" height="40"/>
   </a>
@@ -54,6 +54,12 @@
   </a> 
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" title="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" title="npm" width="40" height="40"/>
@@ -79,9 +85,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
   </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="jest" width="40" height="40"/>
-  </a> 
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>
   </a>
@@ -93,12 +96,6 @@
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" title="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" title="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" title="dotnet" width="40" height="40"/>
   </a>
   <a href="https://www.qt.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qtio" title="qtio" width="40" height="40"/>
